@@ -106,3 +106,4 @@ You may stop using Aera at any time by uninstalling the app.
 
 ### Contact
 For terms-related questions, contact us via the Google Play Store listing.
+Or you can reach out directly to: amanap.mail@gmail.com
