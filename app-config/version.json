@@ -3,6 +3,6 @@
     "version": "1.0.3",
     "versionCode": 9,
     "force": false,
-    "message": "UI fixes, notification accuracy improvements, performance enhancements"
+    "message": "Improved notification accuracy and timing, UI fixes for better responsiveness across devices, Enhanced focus session behavior and audio handling, Improved stability and performance, Minor bug fixes and visual refinements"
   }
 }
