@@ -20,13 +20,13 @@ Aera is built with a privacy-first mindset, meaning your data stays with you—a
 Aera is not about doing more.  
 It’s about creating the right area of focus for what matters.
 
-**Version:** Aera v1.0.0  
+**Version:** Aera v1.0.4  
 
 ---
 
 ## Privacy Policy
 
-**Last Updated:** January 2026  
+**Last Updated:** February 2026  
 
 ### Your Privacy Comes First
 Your privacy is fundamental to Aera. This Privacy Policy explains how information is handled when you use the app.
@@ -71,7 +71,7 @@ For privacy-related questions, contact us through the Google Play Store listing.
 
 ## Terms of Use
 
-**Last Updated:** January 2026  
+**Last Updated:** February 2026  
 
 ### Acceptance of Terms
 By using Aera, you agree to these Terms. If you do not agree, discontinue use.
@@ -106,4 +106,4 @@ You may stop using Aera at any time by uninstalling the app.
 
 ### Contact
 For terms-related questions, contact us via the Google Play Store listing.
-Or you can reach out directly to: amanap.mail@gmail.com
+Or you can reach out directly to: assist.aera@gmail.com
