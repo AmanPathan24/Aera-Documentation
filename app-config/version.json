@@ -3,6 +3,6 @@
     "version": "1.0.4",
     "versionCode": 10,
     "force": false,
-    "message": "Improved notification accuracy and timing, Enhanced focus session behavior and audio handling, Minor bug fixes and visual refinements"
+    "message": "Enhanced PDF Export, Improved Note Preview, Fixed Notifications, 'Save to Device' for PDFs"
   }
 }
