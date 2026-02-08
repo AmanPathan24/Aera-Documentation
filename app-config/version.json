@@ -1,7 +1,7 @@
 {
   "android": {
-    "version": "1.0.6",
-    "versionCode": 11,
+    "version": "1.0.4",
+    "versionCode": 10,
     "force": false,
     "message": "Improved notification accuracy and timing, Enhanced focus session behavior and audio handling, Minor bug fixes and visual refinements"
   }
