@@ -1,0 +1,8 @@
+{
+  "android": {
+    "version": "1.0.3",
+    "versionCode": 9,
+    "force": false,
+    "message": "UI fixes, notification accuracy improvements, performance enhancements"
+  }
+}
