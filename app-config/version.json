@@ -3,6 +3,6 @@
     "version": "1.0.6",
     "versionCode": 11,
     "force": false,
-    "message": "Improved notification accuracy and timing, UI fixes for better responsiveness across devices, Enhanced focus session behavior and audio handling, Improved stability and performance, Minor bug fixes and visual refinements"
+    "message": "Improved notification accuracy and timing, Enhanced focus session behavior and audio handling, Minor bug fixes and visual refinements"
   }
 }
