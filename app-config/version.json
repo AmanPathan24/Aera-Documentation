@@ -1,8 +1,8 @@
 {
   "android": {
-    "version": "1.0.4",
-    "versionCode": 10,
+    "version": "1.0.5",
+    "versionCode": 11,
     "force": false,
-    "message": "Enhanced PDF Export, Improved Note Preview, Fixed Notifications, 'Save to Device' for PDFs, Habit Notification Fix, Calendar UI enhanced"
+    "message": "Improved Overall App Stability and Performace, Enhanced notification reliability, Refined the Calendar UI, Fixed Habit Notification Bugs"
   }
 }
